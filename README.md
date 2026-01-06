@@ -1,9 +1,9 @@
 ## Hey there! I'm mtnljbydd
 
 ### 🔗 Connect with Me
-[<img src="https://img.shields.io/badge/Blog-ff69b4.svg" alt="Blog">](https://www.from0to1.cn/)
-[<img src="https://img.shields.io/badge/Zhihu-blueviolet.svg" alt="Zhihu">](https://www.zhihu.com/people/r6x20o)
-[<img src="https://img.shields.io/badge/Email-red.svg" alt="Email">](mailto:1748208056@qq.com)
+[<img src="https://img.shields.io/badge/Blog-from0to1.cn-ff69b4.svg" alt="Blog">](https://www.from0to1.cn/)
+[<img src="https://img.shields.io/badge/Zhihu-@r6x20o-blueviolet.svg" alt="Zhihu">](https://www.zhihu.com/people/r6x20o)
+[<img src="https://img.shields.io/badge/Email-1748208056@qq.com-red.svg" alt="Email">](mailto:1748208056@qq.com)
 
 ### 👨🏻‍💻 About me
 - ⭐ I'm a C/C++ / Python / AI enthusiast & practical developer.
