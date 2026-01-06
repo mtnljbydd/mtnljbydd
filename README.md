@@ -10,8 +10,9 @@
 - 🌱 I'm currently exploring AI-driven solutions and full-stack development.
 - 💬 Ask me about C/C++, Python, or AI development related topics.
 - 📫 Additional contacts:
-  - Douyin: 从 0 至 1 (From 0 to 1)
-  - WeChat Official Account: 从 0 至 1 (From 0 to 1)
+  - Douyin: 从 0 至 1
+  - WeChat Official Account: 从 0 至 1
+  - Blog: www.from0to1.cn
 
 ### 🚀 Core Interests
 - Programming Languages: C/C++, Python
